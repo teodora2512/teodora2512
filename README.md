@@ -15,10 +15,10 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-
 <img align="left" alt="IntelliJ" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/intellij/intellij-original.svg"/>
 <img align="left" alt="Arduino" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg"/>
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;"https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"/>
-<img align="left" alt="Oracle" width="30px" style="padding-right:10px;"https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg"/>
-<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;"https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg"/>
-<img align="left" alt="Rider" width="30px" style="padding-right:10px;"https://github.com/devicons/devicon/blob/v2.16.0/icons/rider/rider-original.svg"/>
+<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;"src=https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+<img align="left" alt="Oracle" width="30px" style="padding-right:10px;"src=https://github.com/devicons/devicon/blob/v2.16.0/icons/oracle/oracle-original.svg"/>
+<img align="left" alt="PyCharm" width="30px" style="padding-right:10px;"src=https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg"/>
+<img align="left" alt="Rider" width="30px" style="padding-right:10px;"src=https://github.com/devicons/devicon/blob/v2.16.0/icons/rider/rider-original.svg"/>
 plain.svg"/>
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-plain.svg"/>
 <img align="left" alt="MySql" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"/>
