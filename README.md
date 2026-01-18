@@ -6,8 +6,8 @@
 ---
 
 ### 🔭 Current Focus
-- 🚀 Working on an **AI-Enhanced Documentation Generator** (Java 21, Spring Boot, MySQL)
-- 🧠 Integrating **LLMs** into automated developer workflows
+- Working on an **AI-Enhanced Documentation Generator** (Java 21, Spring Boot, MySQL)
+- Integrating **LLMs** into automated developer workflows
 
 ---
 
