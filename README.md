@@ -33,10 +33,10 @@
 
 ### 📫 Get in contact
 
+<a href="mailto:teodoraotelariu25@gmail.com">
+  <img alt="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
+</a>
 <a href="https://linkedin.com/in/teodora-otelariu-899129380">
   <img alt="LinkedIn" width="30px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:teodoraotelariu25@gmail.com">
-  <img alt="Gmail" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/>
-</a>
